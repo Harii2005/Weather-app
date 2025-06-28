@@ -1,5 +1,7 @@
 # Weather App
 
+A sleek, responsive weather application built with React and Material UI that allows users to search for and display current weather conditions for any city worldwide using the OpenWeatherMap API.
+
 A simple, user-friendly weather application built with React and MUI that allows users to check current weather conditions for any city around the world.
 
 ![Weather App Screenshot](public/screenshot.png)
